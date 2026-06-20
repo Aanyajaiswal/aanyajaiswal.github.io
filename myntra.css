@@ -94,7 +94,7 @@ header{
 }
 .category_items{
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap:wrap;
     justify-content: space-evenly;
 }
 .sale_item{
